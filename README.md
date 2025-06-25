@@ -50,12 +50,6 @@ To reduce railway accidents by:
 
 ---
 
-## 🔁 Block Diagram
-
-![Block Diagram]()
-
----
-
 ## 🚨 Features
 
 - ✅ Automatic gate control
@@ -63,7 +57,4 @@ To reduce railway accidents by:
 - ✅ Dual-layer train detection logic
 - ✅ Eco-friendly and human-error-free operation
 
----
-
-## 📂 File Structure
 
