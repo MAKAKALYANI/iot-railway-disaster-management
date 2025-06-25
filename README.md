@@ -34,7 +34,7 @@ To reduce railway accidents by:
 | Breadboard         | 1        |
 | Jumper Wires       | –        |
 
-📄 Full list in [`components_list.md`](components_list.md)
+📄 Full list in [components_list.md]
 
 ---
 
