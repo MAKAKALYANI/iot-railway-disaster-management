@@ -1,0 +1,42 @@
+# 📦 Components List
+
+This document outlines all the hardware components used in the **IoT-Based Railway Disaster Management System** project.
+
+---
+
+## 🔧 Electronics
+
+| Component Name         | Quantity | Description |
+|------------------------|----------|-------------|
+| **Arduino UNO**        | 1        | Microcontroller board to control the entire system |
+| **IR Sensor**          | 2        | Detects the presence of the train on the track |
+| **Ultrasonic Sensor (HC-SR04)** | 1 | Measures the distance of the train from the crossing |
+| **L293D Motor Driver** | 1        | Controls the direction and motion of the DC motor |
+| **DC Motor**           | 1        | Operates the railway gate mechanism |
+| **16x2 LCD Display**   | 1        | Displays system status (train detected, gate open/closed) |
+| **LED**                | 2        | Visual alert for nearby pedestrians |
+| **Buzzer**             | 1        | Audible alert when train is detected |
+| **Breadboard**         | 1        | For prototyping the connections |
+| **Jumper Wires (Male-to-Male)** | 15+ | For connecting components on the breadboard |
+| **Resistors (220Ω / 1kΩ)** | As needed | Used with LEDs, sensors, etc. |
+| **Power Supply (Battery/USB)** | 1 | Powers the Arduino and motor system |
+
+---
+
+## 📌 Optional / Supporting Components
+
+- **Relay Module** (if you plan to drive larger motors)
+- **Push Buttons** (for testing manual trigger)
+- **Heat Shrink Tubes / Insulation Tape** (for secure wiring)
+- **Mounting Board or Casing** (for final enclosure)
+
+---
+
+## 📝 Notes
+
+- Ensure **correct motor driver wiring** with Arduino and motor.
+- Use **appropriate current rating** for the DC motor to avoid overheating the L293D.
+- Keep sensor connections **short and stable** to reduce false triggers.
+
+
+
