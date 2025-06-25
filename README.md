@@ -37,6 +37,10 @@ To reduce railway accidents by:
 📄 Full list in [`components_list`](components_list)
 
 ---
+## 🔁 Block Diagram
+
+![iot1.png](iot1.png)
+
 
 ## 🔧 Working Principle
 
