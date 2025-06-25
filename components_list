@@ -21,14 +21,6 @@ This document outlines all the hardware components used in the **IoT-Based Railw
 | **Resistors (220Ω / 1kΩ)** | As needed | Used with LEDs, sensors, etc. |
 | **Power Supply (Battery/USB)** | 1 | Powers the Arduino and motor system |
 
----
-
-## 📌 Optional / Supporting Components
-
-- **Relay Module** (if you plan to drive larger motors)
-- **Push Buttons** (for testing manual trigger)
-- **Heat Shrink Tubes / Insulation Tape** (for secure wiring)
-- **Mounting Board or Casing** (for final enclosure)
 
 ---
 
